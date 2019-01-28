@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ssm08-common" />
+        <module name="ssm08-dao" />
+        <module name="ssm08-interface" />
+        <module name="ssm08-pojo" />
+        <module name="ssm08-service" />
+        <module name="ssm08-web" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
